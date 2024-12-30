@@ -5,7 +5,7 @@ import { handleError, handleSuccess } from '../utils';
 import { ToastContainer } from 'react-toastify';
 import "../styles/Plans.css";
 
-import qrcode from "../Assets/WhatsApp Image 2024-10-03 at 18.58.39_5c2012ec.jpg";
+import qrcode from "../Assets/qrCode.jpg";
 import upiImg from "../Assets/upiImg.png";
 
 function Plans() {
